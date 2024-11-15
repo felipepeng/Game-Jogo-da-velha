@@ -13,7 +13,26 @@ void escolherPalavra(char *palavraEscolhida) {
         "dados",
         "ciencia",
         "internet",
-        "vpn"
+        "vpn",
+        "byte",
+		"bit",
+		"rede",
+		"chip",
+		"cpu",
+		"rAM",
+		"web",
+		"dados",
+		"jorge",
+		"computador",
+		"internet",
+		"ciberseguranca",
+		"firewall",
+		"servidor",
+		"codigo",
+		"cache",
+		"driver",
+		"backup",
+		"algoritmo"
     };
     
     // Total de palavras no array
